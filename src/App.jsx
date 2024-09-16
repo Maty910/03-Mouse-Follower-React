@@ -25,7 +25,7 @@ const FollowMouse = () => {
     <>
       <div style={{
           position: 'absolute',
-          backgroundColor: 'green',
+          backgroundColor: 'blue',
           border: '1px solid white',
           borderRadius: '20%',
           opacity: 0.8,
